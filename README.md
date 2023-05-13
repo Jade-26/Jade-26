@@ -5,10 +5,12 @@
 -->
 I am Rajat Lavekar, currently pursuing BTech in Computer Science at Indian Institute of Technology Dharwad.
 
-- 🔭 The list of projects I have worked on :
+🔭 The list of projects I have worked on :
+
 - ⚡ <a href="https://github.com/Jade-26/Traffic-Road-Sign-Detection"> Traffic Road Sign Detection </a>
-- ⚡ <a heref="https://github.com/Jade-26/Hospital-Management-System"> Hospital Management System </a>
+- ⚡ <a href="https://github.com/Jade-26/Hospital-Management-System"> Hospital Management System </a>
 - ⚡ <a href= "https://github.com/Jade-26/Peer-to-Peer-File-Transfer-Application"> Peer To Peer File Transfer Application </a>
 - ⚡ <a href= "https://github.com/Jade-26/Topic-Modelling-using-LDA/tree/main"> Topic Modelling using LDA </a>
-- 🤔 I’m looking for help with ...
+
+“ Things are only impossible until they're not ” – *Captain Jean-Luc Picard, Star Trek*
 
