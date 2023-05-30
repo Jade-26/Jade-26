@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **Jade-26/Jade-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
